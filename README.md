@@ -1,8 +1,3 @@
-# node-mongo-registration-login-api
-
-NodeJS + MongoDB API for User Management, Authentication and Registration
-
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
-
+# node-js-bmi-calculator-api
 
 Enter your json data in input.json file and output will be in output.json file
