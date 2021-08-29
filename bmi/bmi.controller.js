@@ -10,9 +10,9 @@ module.exports = router;
 
 function calculate(req, res, next) {
     bmiService.calculate()
-        .then(users => {
+        .then(persons => {
             
-            res.json(users)
+            res.json(persons)
         })
         .catch(err => next(err));
 }
